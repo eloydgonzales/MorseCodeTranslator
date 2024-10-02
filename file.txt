@@ -1,5 +1,4 @@
 test sentence in this file.
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-[\]^_`
 abcdefghijklmnopqrstuvwxyz
-.,?'!/()&:;=+-_"$@
+.,?'!/()&:=+-"@
